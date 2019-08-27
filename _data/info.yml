@@ -17,17 +17,17 @@ affiliation:
     department: #교실
     program: 원내생 진료 센터 #전공
 
-  - school: BK21+ #단과대학
-    department: 치의학생명과학사업단
+  - school: 치학연구소 #단과대학
+    department: #교실
     program: #전공
 
-  - school: 치학연구소 #단과대학
+  - school:  #단과대학
     department: #교실
     program:  #전공
 
 address:
   building: 본관 # 본관/재료/병원/관악 넷중 하나로 입력
-  office: 508-2호
+  office: 본관 508-2호
   lab: 재료 601호
 
 phone:
