@@ -1,6 +1,7 @@
 overview:
-  - 이 연구실은 아주 좋은 연구실 입니다.
-  - 연구실에 대한 대략적인 소개를 _data 폴더의 info.yml 파일에 써 주세요.
+  - 저희 연구실은 임상과 기초의 융합 연구실 입니다.
+  - 치주 재생에 대한 기초 및 전임상 연구를 수행합니다.
+  - 치의학 임상 교육에 대한 이론 및 컨텐츠 개발, 교수법에 대하여 연구합니다.
 
 mainFig:
   - frontImg_1.jpg
@@ -9,12 +10,12 @@ mainFig:
 
 affiliation:
   - school: 치의학대학원 #단과대학
-    department: 구강생리학교실 #교실
-    program: 신경생물학전공 #전공
+    department: # 교실
+    program: 치의학 교육학 전공 #전공
 
-  - school: 자연과학대학 #단과대학
+  - school: 치과대학병원 #단과대학
     department: #교실
-    program: 협동과정 뇌과학전공 #전공
+    program: 원내생 진료 센터 #전공
 
   - school: BK21+ #단과대학
     department: 치의학생명과학사업단
@@ -25,11 +26,11 @@ affiliation:
     program:  #전공
 
 address:
-  building: 병원 # 본관/재료/병원/관악 넷중 하나로 입력
-  office: 50x호
-  lab: 50x호
+  building: 본관 # 본관/재료/병원/관악 넷중 하나로 입력
+  office: 508-2호
+  lab: 재료 601호
 
 phone:
-  office: 02-880-xxxx
+  office: 02-740-8667
   lab: 02-880-xxxx
   fax: 02-762-xxxx
