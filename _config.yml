@@ -11,7 +11,7 @@ short_labname: periedulab
 email: nalby99@snu.ac.kr
 logo: logo.png
 description: > # 다음 줄에 연구실 소개 입력
-  periodontology; clinical dental education; pre-doctoral treatment center; Seoul National University; 서울대학교 치의학대학원 박신영 교수 연구실; Shin-Young Park;
+  periodontology; tissue engineering; clinical dental education; pre-doctoral treatment center; Seoul National University; 서울대학교 치의학대학원 박신영 교수 연구실; Shin-Young Park;
 baseurl: "" # the subpath of your site, e.g. /blog
 github_username:  perieduLab
 google-site-verification:
