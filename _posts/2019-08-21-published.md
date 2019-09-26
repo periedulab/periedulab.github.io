@@ -10,6 +10,7 @@ published: true
 
 <b>Improved oral hygiene care attenuates the cardiovascular risk of oral health disease</b>
 <b>European Heart Journal, Volume 40, Issue 14, 07 April 2019, Pages 1138–1145</b>
+
 <b>Aim</b>
 Oral health problems such as periodontal disease, dental caries, and tooth loss have been suggested to have associations with cardiovascular disease. This study aimed to evaluate whether oral hygiene behaviour can alleviate cardiovascular risk associated with oral health status using a nationwide population-based cohort.
 
