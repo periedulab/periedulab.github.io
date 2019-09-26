@@ -1,11 +1,11 @@
 - title: 홈페이지 오픈!!
-  notice: 연구원, 대학원 지원자 여러분을 환영합니다.
+  notice: 치의학 임상 교육 현안에 대하여 소통하기 위한 공간을 개설하였습니다. 
   status: open
 
 - title: 두번째 공지
   notice: 이 공지는 보이지 않습니다. (status가 close 입니다)
   status: close
 
-- title: 학생모집
-  notice: 야심찬 학생 찾아오세요.
+- title: 연구원/학생모집
+  notice: 치의학 기초 연구원, 치의학 대학원 치의학 교육 전공 지원자 여러분을 환영합니다.
   status: open
