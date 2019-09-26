@@ -4,7 +4,7 @@ $header-height: 38px;
   height: $header-height;
   min-height: $header-height;
   border: 0px solid transparent;
-  font-size: 20px;
+  font-size: 14px;
 
   padding-left: $grid-gutter-width/4;
   padding-right: $grid-gutter-width/4;
@@ -30,7 +30,7 @@ $header-height: 38px;
       margin: 3px 0;
     }
     font-family: 'Noto Sans JP', sans-serif;
-    font-size: 1.3em;
+    font-size: 1.6em;
     float: left;
     margin-left: 0em;
     height: $header-height;
