@@ -4,7 +4,7 @@ $header-height: 38px;
   height: $header-height;
   min-height: $header-height;
   border: 0px solid transparent;
-  font-size: 14px;
+  font-size: 12px;
 
   padding-left: $grid-gutter-width/4;
   padding-right: $grid-gutter-width/4;
@@ -29,8 +29,8 @@ $header-height: 38px;
     .navbar-btn {
       margin: 3px 0;
     }
-    font-family: 'Noto Sans JP', sans-serif;
-    font-size: 1.6em;
+    font-family: 'Noto Sans JP', sans-serif, 'Bree Serif', serif;
+    font-size: 3.0em;
     float: left;
     margin-left: 0em;
     height: $header-height;
